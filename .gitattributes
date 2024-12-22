@@ -1,0 +1,6 @@
+*.spp filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> 3a47dde7a4d7da94808e76088c3ef7abc38f898d

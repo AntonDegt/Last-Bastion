@@ -1,0 +1,5 @@
+*.blend1
+*.dll
+*.spp
+/Last Bastion*
+!/Last-Bastion/Assets/
